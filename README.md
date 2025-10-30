@@ -10,7 +10,7 @@ Welcome to my GitHub profile. I’m passionate about technology, open-source, an
 - 🌱 I’m currently learning **web development**, **cloud technologies**, and **DevOps**.
 - 👀 I’m interested in **AI**, **machine learning**, and **backend engineering**.
 - 💞️ I’m looking to collaborate on **interesting open-source projects** and innovative startups.
-- 📫 How to reach me: [luqman.samtia@gmail.com](mailto:luqman.samtia@gmail.com)
+- 📫 How to reach me: [luqmansamtia617@gmail.com](mailto:luqmansamtia617@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving coding puzzles in my free time!
 
