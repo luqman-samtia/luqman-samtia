@@ -27,15 +27,7 @@ Welcome to my GitHub profile. I’m passionate about technology, open-source, an
 ## 🏆 Repository Stats
 
 - **Total Public Repositories:** [![Repos Badge](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fluqman-samtia)](https://github.com/luqman-samtia?tab=repositories)
-- **Followers:** [![Followers Badge](https://img.shields.io/github/followers/luqman-samtia?label=Followers)](https://github.com/luqman-samtia?tab=followers)
 - **Stars Received:** ![Stars Badge](https://img.shields.io/github/stars/luqman-samtia?style=flat)
-
----
-
-## 📚 Featured Repositories
-
-<!-- Pin your best repositories here -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luqman-samtia&repo=YOUR-REPO-NAME&theme=github_dark)](https://github.com/luqman-samtia/YOUR-REPO-NAME)
 
 ---
 
